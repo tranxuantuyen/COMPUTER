@@ -72,4 +72,4 @@ python setup.py build develop
     ```
 
 ## Acknowledgements
-This project is built upon two code bases [PySlowfast](https://github.com/facebookresearch/SlowFast). We would like to thank the authors for releasing their code.
+This project is built upon the code bases [PySlowfast](https://github.com/facebookresearch/SlowFast). We would like to thank the authors for releasing their code.
